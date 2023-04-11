@@ -11,7 +11,7 @@ You can also Filter the Cabs using Left Filter Panel.
 Then, Download the `ReactApp-cab`:
 
 ```sh
-$ git clone 
+$ git clone https://github.com/priyanshy55/Cab-App-React.git
 ```
 
 After Cloning the App go the folder :
